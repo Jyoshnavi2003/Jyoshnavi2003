@@ -1,4 +1,4 @@
-<img style="margin-left: 20px;" width:1000 alt="banner" src="https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430867.jpg?w=1060&t=st=1721297174~exp=1721297774~hmac=159090b8db3fed07e85755849db55d1fe81c795ae63d52a40750e5bde80218f3">
+<img style="margin-left: 10px;" width:1000 alt="banner" src="https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430867.jpg?w=1060&t=st=1721297174~exp=1721297774~hmac=159090b8db3fed07e85755849db55d1fe81c795ae63d52a40750e5bde80218f3">
 <h1 align="center">Hi 👋, I'm kancheti jyoshnavi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
